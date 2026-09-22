@@ -13,7 +13,7 @@ const PROJECTS = [
   },
   {
     id: 2,
-    title: "Hello React",
+    title: "Bakery",
     desc: "A simple React demo showcasing a fast, component-driven front end.",
     tags: ["React", "Vite"],
     url: "https://mytesting-tau.vercel.app/",
